@@ -4,7 +4,7 @@
 Email Me 👉 ✉ *salgarhariom@live.com* For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
-🔭 Building intelligent systems with AI, ML, and Full-Stack Web Tech<br>🤖 Currently developing a next-gen AI Twin — a humanoid virtual assistant with emotions and real-time interaction<br>🛠 Working with React, Node.js, RAG, dynamic prompts, emotion-based AI, and modern databases<br>📚 3rd-year Computer Engineering student from Maharashtra, always exploring lucid dreaming, meditation, and cutting-edge tech<br>🎓 Preparing for seminar topics like Social Engineering in Cybersecurity<br>💡 Passionate about AI model behavior, system architecture, and human-computer interaction<br><br>⚡ Fun fact: I don’t panic during project bugs — I treat them like mini-boss fights, and I always win with logic, patience, and strategic debugging! 🕹
+🔭 Building intelligent systems with AI, ML, and Full-Stack Web Tech<br>🤖 Currently developing a next-gen AI Twin — a humanoid virtual assistant with emotions and real-time interaction<br>🛠 Working with React, Node.js, RAG, dynamic prompts, emotion-based AI, and modern databases<br>📚 Final-year Computer Engineering student from Maharashtra, always exploring lucid dreaming, meditation, and cutting-edge tech<br>🎓 Preparing for seminar topics like Social Engineering in Cybersecurity<br>💡 Passionate about AI model behavior, system architecture, and human-computer interaction<br><br>⚡ Fun fact: I don’t panic during project bugs — I treat them like mini-boss fights, and I always win with logic, patience, and strategic debugging! 🕹
 
 
 ## 🏆 GitHub Trophies
