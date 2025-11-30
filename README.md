@@ -7,10 +7,6 @@ Email Me 👉 ✉ *salgarhariom@live.com* For Collaboration/Project or Anything 
 🔭 Building intelligent systems with AI, ML, and Full-Stack Web Tech<br>🤖 Currently developing a next-gen AI Twin — a humanoid virtual assistant with emotions and real-time interaction<br>🛠 Working with React, Node.js, RAG, dynamic prompts, emotion-based AI, and modern databases<br>📚 Final-year Computer Engineering student from Maharashtra, always exploring lucid dreaming, meditation, and cutting-edge tech<br>🎓 Preparing for seminar topics like Social Engineering in Cybersecurity<br>💡 Passionate about AI model behavior, system architecture, and human-computer interaction<br><br>⚡ Fun fact: I don’t panic during project bugs — I treat them like mini-boss fights, and I always win with logic, patience, and strategic debugging! 🕹
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=salgarhariom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om_salgar_2311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hariom-salgar-2b9a90290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salgarhariom@gmail.com) 
 
@@ -21,17 +17,6 @@ Email Me 👉 ✉ *salgarhariom@live.com* For Collaboration/Project or Anything 
 ![](https://nirzak-streak-stats.vercel.app/?user=salgarhariom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salgarhariom&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=salgarhariom&icon=0&color=0)](https://visitcount.itsvg.in)
