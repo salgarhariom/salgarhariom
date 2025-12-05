@@ -1,7 +1,7 @@
 #  Hi 👋, I'm Salgar Hariom
 **👨‍💻 I’m a Computer Engineering student and AI-focused Full Stack Developer who loves building intelligent MERN applications. Currently developing a next-gen AI Twin with real-time interaction, RAG, and emotion-based prompts. I’m passionate about clean code, smooth UI/UX, and backend logic that just works.<br><br>**
 
-Email Me 👉 ✉ *salgarhariom@live.com* For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉ *salgarhariom@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
 🔭 Building intelligent systems with AI, ML, and Full-Stack Web Tech<br>🤖 Currently developing a next-gen AI Twin — a humanoid virtual assistant with emotions and real-time interaction<br>🛠 Working with React, Node.js, RAG, dynamic prompts, emotion-based AI, and modern databases<br>📚 Final-year Computer Engineering student from Maharashtra, always exploring lucid dreaming, meditation, and cutting-edge tech<br>🎓 Preparing for seminar topics like Social Engineering in Cybersecurity<br>💡 Passionate about AI model behavior, system architecture, and human-computer interaction<br><br>⚡ Fun fact: I don’t panic during project bugs — I treat them like mini-boss fights, and I always win with logic, patience, and strategic debugging! 🕹
